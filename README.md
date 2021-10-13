@@ -2,5 +2,5 @@
 My custom vimrc
 
 ## Installation
-`sudo chmod +x ./install.sh`
+`sudo chmod +x ./install.sh` 
 `./install.sh`
